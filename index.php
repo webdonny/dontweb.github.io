@@ -5,8 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	<?php
-    echo "string";
-	?>
+	<a href="">Зарегистрироваться</a>
+	<a href="">Войти</a>
 </body>
 </html>
